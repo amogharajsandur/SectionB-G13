@@ -1,4 +1,4 @@
-###This data dictionary documents all fields, transformations, and assumptions applied during data cleaning to ensure transparency and reproducibility of analysis.
+### This data dictionary documents all fields, transformations, and assumptions applied during data cleaning to ensure transparency and reproducibility of analysis.
 
 
 ## Dataset Summary
