@@ -44,10 +44,11 @@
 
 Missing values were present in price, quantity, and total_spent, handled using logical relationships
 Assumptions made:
-If only price exists → quantity = 1
-If only total exists → quantity = 1
-Duplicate records were removed
-Outliers detected using IQR method (not removed, only analyzed)
-Some product names were missing → replaced with "Unknown_Item"
-Discount field had nulls → treated as False
+- If only price exists → quantity = 1
+- If only total exists → quantity = 1
+- Duplicate records were removed
+- Outliers detected using IQR method (not removed, only analyzed)
+- Some product names were missing → replaced with "Unknown_Item"
+- Discount field had nulls → treated as False
+
 Data may contain skewness due to high-value transactions
