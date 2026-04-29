@@ -1,5 +1,9 @@
 # DVA-Focused Portfolio
 
+| Student Name | Portfolio Link |
+|---|---|
+| Avneet Singh | [View Portfolio](https://avneets0419.github.io/Dva-Portfolio/) |
+
 Use this folder as a reminder for each student to convert the capstone into a portfolio-ready case study.
 
 ## Portfolio Case Study Should Cover
