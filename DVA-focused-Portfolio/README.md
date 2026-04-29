@@ -4,6 +4,7 @@
 |---|---|
 | Avneet Singh | [View Portfolio](https://avneets0419.github.io/Dva-Portfolio/) |
 | Abhigya Sachdeva | [View Portfolio](https://portfolio-dva-phi.vercel.app/) |
+| Shreshtha Gupta | [View Portfolio](https://dva-portfolio-inky.vercel.app/) |
 
 Use this folder as a reminder for each student to convert the capstone into a portfolio-ready case study.
 
